@@ -1,0 +1,6 @@
+{
+  "name": "NFEAT",
+  "displayName": "NFEAT",
+  "ios": {"bundleIdentifier": "com.nfeat"},
+  "android": {"package": "com.nfeat"}
+}
